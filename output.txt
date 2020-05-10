@@ -1,0 +1,7 @@
+File name is -  1.txt and output is :
+--------------------------------------
+Sylhet
+is
+our
+town.
+There are 4 words.
